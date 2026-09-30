@@ -1,1 +1,3 @@
-# Automated_Social_Media_Content_Engine
+# Automated Social Media Content Engine
+
+## Introduction
