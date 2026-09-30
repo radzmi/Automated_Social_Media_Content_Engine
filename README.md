@@ -20,6 +20,7 @@ To overcome these roadblocks, this project deploys a three-tool tech stack desig
 
 1. **Monthly Planning (Gemini)**
 
+![image](SS/Picture_2.png)
 
 Gemini handles high-level content architecture, transforming an empty calendar into a structured 30-day posting roadmap.
 
