@@ -1,7 +1,7 @@
 # Automated Social Media Content Engine
 
 
-![image](images/1st.png)
+![image](images/aicontent.jpg)
 
 
 ## Introduction
