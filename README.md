@@ -20,7 +20,7 @@ To overcome these roadblocks, this project deploys a three-tool tech stack desig
 
 1. **Monthly Planning (Gemini)**
 
-![image](SS/Picture_2.png)
+![image](SS/1st.png)
 
 Gemini handles high-level content architecture, transforming an empty calendar into a structured 30-day posting roadmap.
 
@@ -29,6 +29,9 @@ Gemini handles high-level content architecture, transforming an empty calendar i
 
 
 2. **Conversational Copywriting (ChatGPT)**
+
+
+![image](SS/2nd.png)
 
 
 ChatGPT converts the calendar angles into natural, conversion-driven copy tailored for modern platforms like Threads.
@@ -48,6 +51,8 @@ ChatGPT generates photorealistic, commercial-grade product visuals without requi
 
 4. **Automated Publishing (Buffer)**
 
+
+![image](SS/3rd.png)
 
 Buffer decouples content distribution from personal time, running the queue autonomously.
 
